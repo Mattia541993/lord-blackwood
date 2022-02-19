@@ -55,16 +55,22 @@
     --body-font-color: var(--grey-900);
     --body-font-color-alt: var(--white);
     --body-font-size: var(--font-size-md);
-    --heading-font-color: var(--grey-800);
+    --heading-font-color: var(--grey-900);
+    --heading-text-bg-color: var(--white-400-a);
     --card-background: var(--white-850-a);
     --footer-background: var(--grey-200);
     --text-muted: var(--grey-700);
+    --sm-menu-bg-color: var(--white-400-a);
     --link-color: var(--blue);
     --link-color-alt: var(--purple);
     --footer-color: var(--grey-800);
 
     img {
       filter: grayscale(0);
+    }
+
+    #latest-post-title{
+      background-color: var(--heading-text-bg-color);
     }
 
     pre[class*="language-"] {
@@ -89,14 +95,16 @@
   }
 
   .gradient-home.light-theme {
-    background-image: url("/assets/images/mesh-gradient-white.webp");
+    // background-image: url("/assets/images/mesh-gradient-white.webp");
+    background-image: url("/assets/images/castle-bg-light.jpeg");
     background-repeat: no-repeat;
     background-size: contain;
   }
 
   /*! purgecss ignore */
   .no-webp .gradient-home.light-theme {
-    background-image: url("/assets/images/mesh-gradient-white.jpg");
+    // background-image: url("/assets/images/mesh-gradient-white.jpg");
+    background-image: url("/assets/images/castle-bg-light.jpeg");
     background-repeat: no-repeat;
     background-size: contain;
   }

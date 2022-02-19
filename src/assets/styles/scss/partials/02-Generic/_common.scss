@@ -81,7 +81,8 @@
   }
 
   &.gradient-home {
-    background-image: url("/assets/images/mesh-gradient-black.webp");
+    // background-image: url("/assets/images/mesh-gradient-black.webp");
+    background-image: url("/assets/images/castle-bg-dark.jpg");
     background-repeat: no-repeat;
     background-size: contain;
   }
@@ -89,7 +90,8 @@
 
 /*! purgecss ignore */
 .no-webp .dark-theme.gradient-home {
-  background-image: url("/assets/images/mesh-gradient-black.jpg");
+  // background-image: url("/assets/images/mesh-gradient-black.jpg");
+  background-image: url("/assets/images/castle-bg.jpg");
   background-repeat: no-repeat;
   background-size: contain;
 }

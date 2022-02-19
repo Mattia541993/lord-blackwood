@@ -6,6 +6,10 @@
   margin-bottom: var(--space-lg-1h);
   padding: var(--space-0) var(--space-lg-1h);
   list-style: none;
+  background-color: var(--sm-menu-bg-color);
+  @include media-query(xs){
+    background-color: unset;
+  }
 
   // https://pineco.de/get-to-know-the-lobotomized-owl-selector/
   & > * + * {
