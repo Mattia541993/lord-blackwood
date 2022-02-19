@@ -1,7 +1,9 @@
 ---
 layout: layouts/home.njk
 title: About
-imgUrl: https://source.unsplash.com/2k3sPaLibbw/
+# imgUrl: https://source.unsplash.com/2k3sPaLibbw/
+imgUrl: https://source.unsplash.com/DCqvWkXF74Q/
+# imgUrl: https://unsplash.com/photos/DCqvWkXF74Q
 imgAlt: Abstract black and white photograph of a person in a mountain.
 imgSize: '(min-width: 30em) 50vw, 100vw'
 pictureClass: grid-column-full
