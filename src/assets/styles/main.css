@@ -1011,12 +1011,12 @@ header {
   .direct-link:hover::after {
     filter: brightness(500%); }
   .gradient-home {
-    background-image: url("/assets/images/mesh-gradient-black.webp");
+    background-image: url("/assets/images/castle-bg-dark.jpg");
     background-repeat: no-repeat;
     background-size: contain; }
   /*! purgecss ignore */
   .no-webp .gradient-home {
-    background-image: url("/assets/images/mesh-gradient-black.jpg");
+    background-image: url("/assets/images/castle-bg-dark.jpg");
     background-repeat: no-repeat;
     background-size: contain; }
   .light-theme {
