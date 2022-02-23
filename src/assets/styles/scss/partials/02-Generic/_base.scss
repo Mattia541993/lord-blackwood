@@ -21,6 +21,16 @@ body {
   font-size: var(--body-font-size);
   line-height: 1.7;
   overflow-x: hidden;
+
+  p{
+    .medieval{
+      font-family: var(--serif-font-family);
+
+      &.big{
+        font-size: 1.6rem;
+      }
+    }
+  }
 }
 
 p {

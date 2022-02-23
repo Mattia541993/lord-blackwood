@@ -129,6 +129,10 @@ body {
   font-size: var(--body-font-size);
   line-height: 1.7;
   overflow-x: hidden; }
+  body p .medieval {
+    font-family: var(--serif-font-family); }
+    body p .medieval.big {
+      font-size: 1.6rem; }
 
 p {
   margin-bottom: var(--space-lg-1); }

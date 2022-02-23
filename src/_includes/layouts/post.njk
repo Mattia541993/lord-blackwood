@@ -7,7 +7,7 @@
 {% block content %}
   <article class="post grid">
 
-    <header class="post__header {%- if imgUrl %} mb-2 mb-lg-3{% endif %}">
+    <header class="post__header">
       {%- if date %}
         <div class="post__date-time mb-1">
           <time class="post__date text-muted font-sm" datetime="{{ date | dateStringISO }}">
@@ -41,12 +41,12 @@
     </header>
 
     {%- if imgUrl %}
-      {% imageNjk imgUrl,
+      {# {% imageNjk imgUrl,
       imgAlt,
       imgSize,
       pictureClass,
       imgClass,
-      imgBorderColor %}
+      imgBorderColor %} #}
     {% else %}
       <hr>
     {% endif %}
