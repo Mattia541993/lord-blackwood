@@ -792,13 +792,13 @@ header {
     max-width: var(--line-length); }
 
 .gradient-home {
-  background-image: url("/assets/images/castle-bg-light.jpeg");
+  background-image: url("/assets/images/castle-bg-light.jpg");
   background-repeat: no-repeat;
   background-size: contain; }
 
 /*! purgecss ignore */
 .no-webp .gradient-home {
-  background-image: url("/assets/images/castle-bg-light.jpeg");
+  background-image: url("/assets/images/castle-bg-light.jpg");
   background-repeat: no-repeat;
   background-size: contain; }
 
@@ -1050,12 +1050,12 @@ header {
     .light-theme .direct-link:hover::after {
       filter: brightness(0%); }
   .gradient-home.light-theme {
-    background-image: url("/assets/images/castle-bg-light.jpeg");
+    background-image: url("/assets/images/castle-bg-light.jpg");
     background-repeat: no-repeat;
     background-size: contain; }
   /*! purgecss ignore */
   .no-webp .gradient-home.light-theme {
-    background-image: url("/assets/images/castle-bg-light.jpeg");
+    background-image: url("/assets/images/castle-bg-light.jpg");
     background-repeat: no-repeat;
     background-size: contain; } }
 

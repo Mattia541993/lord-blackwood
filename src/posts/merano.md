@@ -3,8 +3,8 @@ title: Merano, Forst e Terme
 subtitle: Tra paesaggi, relax, camminate e lasagne
 description: Tappa in Trentino per la città che la principessa Sissi amò e che ci fece conoscere Hubertus
 date: 2016-08-08
-imgUrl: ./src/assets/featured.jpg
-imgAlt: i nostri piedi che si uniscono
+# imgUrl: ./src/assets/featured.jpg
+# imgAlt: i nostri piedi che si uniscono
 tags:
   - montagna
   - amici
