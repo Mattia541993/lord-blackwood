@@ -1,7 +1,7 @@
 ---
 title: "Montecampione: la prima volta sugli sci"
 subtitle: "Tra cadute e Marina"
-imgUrl: /assets/featured.jpg
+imgUrl: /assets/images/featured.jpg
 imgAlt: i nostri piedi che si uniscono
 description: "La prima volta sugli sci con insegnanti d'eccezione quali Bona, Fortu e Ianna che, assieme a Marina, ci hanno iniziato all'arte dello sci"
 date: 2022-01-29

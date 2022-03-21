@@ -3,7 +3,7 @@ title: L'appartamento 1 di Porto Recanati
 subtitle: Il tempio del rock e il capitano Lorenza
 description: La prima vacanza tutti insieme, ricca di avventure, di musica e scottature
 date: 2013-07-27
-imgUrl: /assets/featured.jpg
+imgUrl: /assets/images/featured.jpg
 imgAlt: il tempio del rock sulla spiaggia
 tags:
   - amici
